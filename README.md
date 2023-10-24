@@ -31,3 +31,4 @@ The line graph below shows how the different models performed based on their tra
 ![blueprint](Images/evaluation.PNG)
 
 ## Conclusion
+Leveraging the CNN model using the RMSprop classifier as the primary predictive model for image classification can assist medical practitioners to make accurate and fast diagnosis on patients with abdominal trauma. This has the potential to substantially improve patient care and health outcomes in emergency settings.
